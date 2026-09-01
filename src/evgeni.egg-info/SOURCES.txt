@@ -1,0 +1,7 @@
+pyproject.toml
+src/evgeni/__init__.py
+src/evgeni/main.py
+src/evgeni.egg-info/PKG-INFO
+src/evgeni.egg-info/SOURCES.txt
+src/evgeni.egg-info/dependency_links.txt
+src/evgeni.egg-info/top_level.txt
