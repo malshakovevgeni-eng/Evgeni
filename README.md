@@ -6,7 +6,7 @@ Python-проект.
 
 ## Установка
 
-Требуется Python 3.11+.
+Требуется Python 3.14+.
 
 ```bash
 pip install -e .
